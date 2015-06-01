@@ -1,0 +1,7 @@
+rest\MyApplication.class
+chunk\MyItemWriter.class
+chunk\MyItemProcessor.class
+chunk\MyItemReader.class
+common\util\TestUtil.class
+rest\JBatchResource.class
+batchlet\MyBatchlet.class
